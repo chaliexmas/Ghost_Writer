@@ -1,0 +1,14 @@
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Release\gw.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Release\gw.exe.manifest
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Release\gw.application
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Release\gw.exe
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Release\gw.pdb
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\Ghost_Writer.Settings.resources
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\gw.TrustInfo.xml
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\gw.exe.manifest
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\gw.application
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\gw.exe
+C:\Users\Carlos\Documents\Visual Studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Release\gw.pdb

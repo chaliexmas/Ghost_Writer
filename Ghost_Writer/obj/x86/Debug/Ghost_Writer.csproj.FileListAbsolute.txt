@@ -1,0 +1,10 @@
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Debug\Ghost_Writer.exe
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Debug\Ghost_Writer.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Debug\Ghost_Writer.exe
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Debug\Ghost_Writer.pdb
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Debug\Ghost_Writer.exe.config
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Debug\Ghost_Writer.Settings.resources
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\carlos\documents\visual studio 2010\Projects\Ghost_Writer\Ghost_Writer\bin\Debug\gw.exe.config
